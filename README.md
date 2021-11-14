@@ -6,7 +6,7 @@ Advent of code 2017 in Rust 🎄 🎅
 |:----------:|:-------------:|:------:|:------:|
 | #1 |  [Rust](./01_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #2 |  [Rust](./02_rs/) | :heavy_check_mark: | :heavy_check_mark: |
-| #3 | - | :x: | :x: |
+| #3 |  [Rust](./03_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #4 | - | :x: | :x: |
 | #5 | - | :x: | :x: |
 | #6 | - | :x: | :x: |

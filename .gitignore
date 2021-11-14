@@ -12,3 +12,4 @@
 *.toml
 *.lock
 **/.vscode
+**/target/**

@@ -1,5 +1,5 @@
 # AoC_2017
-Advent of code 2017 in Rust 🎄 🎅
+Advent of code 2017 in Rust and Python 🎄 🎅
 
 
 | Day   |      Language      |  Part1 | Part2 |
@@ -11,7 +11,7 @@ Advent of code 2017 in Rust 🎄 🎅
 | #5 |  [Rust](./05_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #6 |  [Rust](./06_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #7 |  [Rust](./07_rs/) | :heavy_check_mark: | :x: |
-| #8 | - | :x: | :x: |
+| #8 |  [Rust](./08_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #9 | - | :x: | :x: |
 | #10 | - | :x: | :x: |
 | #11 | - | :x: | :x: |

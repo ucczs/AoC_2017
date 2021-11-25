@@ -11,7 +11,7 @@ Advent of code 2017 in Rust and Python 🎄 🎅
 | #5 |  [Rust](./05_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #6 |  [Rust](./06_rs/) | :heavy_check_mark: | :heavy_check_mark: |
 | #7 |  [Rust](./07_rs/) | :heavy_check_mark: | :x: |
-| #8 |  [Rust](./08_py/) | :heavy_check_mark: | :heavy_check_mark: |
+| #8 |  [Python](./08_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #9 | - | :x: | :x: |
 | #10 | - | :x: | :x: |
 | #11 | - | :x: | :x: |
